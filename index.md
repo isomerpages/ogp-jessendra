@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Title
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -29,7 +29,7 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: "Get official answers on our  Q&A platform "
+      title: Get official answers on our  Q&A platform
       subtitle: HAVE QUESTIONS?
       id: infopic
       button: ASK US A QUESTION
